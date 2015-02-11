@@ -1,0 +1,5 @@
+obj
+packages
+/*.suo
+/TicTacToe.Web/Properties/PublishProfiles/*.pubxml
+/TicTacToe.Web/Properties/PublishProfiles/tictactoe-services.pubxml.user
